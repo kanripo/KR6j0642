@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說勝幡瓔珞陀羅尼經
+#+DATE: 2015-08-30 20:37:00.030680
+#+PROPERTY: JUAN 0
