@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:59.845492
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:42
 #+TITLE: 佛說勝幡瓔珞陀羅尼經
 #+PROPERTY: CBETA_ID T21n1410
 #+PROPERTY: ID KR6j0642
