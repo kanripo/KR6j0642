@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:59.845492
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:42
 #+TITLE: 佛說勝幡瓔珞陀羅尼經
 #+PROPERTY: CBETA_ID T21n1410
 #+PROPERTY: ID KR6j0642
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1410
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0642_T_001-0925c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1410¶
-
- 佛說勝幡瓔珞陀羅尼經¶
+No. 1410¶
+佛說勝幡瓔珞陀羅尼經¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 傳法大師臣施護奉　詔譯¶
@@ -69,7 +68,7 @@ No.1410¶
 字。信心受持恒常讀誦者。是人所有五逆重¶
 罪悉皆滅盡。得見果報獲大富貴於當來世¶
 得生上族。若復善男子善女人。以此陀羅尼¶
-殊勝功德。廣宣流布為人解說。或勸人書寫¶
+殊勝功德。廣宣流布為人解脫。或勸人書寫¶
 受持讀誦。我即遙知。乃至毘婆尸佛。尸棄佛。¶
 毘舍浮佛。拘留孫佛。羯諾迦牟尼佛。迦葉¶
 佛。如是過去恒河沙等如來應正等覺皆悉¶
